@@ -7,7 +7,5 @@ Unreal Engine ThirdParty Module of BSON
 * Regenerate Visual studio project file.
 
 Then you can easily use mongo c driver by including following head file:
-
 * sadosoadosad
-
 * sadsadsad
